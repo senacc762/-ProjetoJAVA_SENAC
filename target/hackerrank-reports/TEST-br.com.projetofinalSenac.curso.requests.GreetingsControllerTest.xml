@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.projetofinalSenac.curso.requests.GreetingsControllerTest" tests="3" failures="0" errors="0" skipped="0" time="7.380">
+  <testcase classname="br.com.projetofinalSenac.curso.requests.GreetingsControllerTest" name="greetJava" time="7.361" />
+  <testcase classname="br.com.projetofinalSenac.curso.requests.GreetingsControllerTest" name="greetSpring" time="0.011" />
+  <testcase classname="br.com.projetofinalSenac.curso.requests.GreetingsControllerTest" name="greetRodJohnson" time="0.008" />
+</testsuite>
+
