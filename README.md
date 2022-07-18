@@ -1,4 +1,5 @@
-# ProjetoJAVA_SENAC
-##Programa usando React, Spring Boot, Nodejs 16 e Yarn##
-Banco de dados Postman, Heroku CLI
-Envio de SMS Twilio
+# ProjetoJAVA_SENAC<br>
+
+<p>Programa usando React, Spring Boot, Nodejs 16 e Yarn</p><br>
+<p>Banco de dados Postman, Heroku CLI</p>
+<p>Envio de SMS Twilio</p>
